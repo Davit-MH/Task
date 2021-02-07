@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.2.2)
+  - Kingfisher (6.1.0)
+  - youtube-ios-player-helper (1.0.2)
+  - YoutubePlayer-in-WKWebView (0.3.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Kingfisher (~> 6.0)
+  - youtube-ios-player-helper
+  - YoutubePlayer-in-WKWebView (~> 0.3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - youtube-ios-player-helper
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Kingfisher: f5d8d60a0ef3edd642fd781bae60918599901aff
+  youtube-ios-player-helper: 40b96e52c22445f0fdc43731cefa32c67075ff81
+  YoutubePlayer-in-WKWebView: cfbf46da51d7370662a695a8f351e5fa1d3e1008
+
+PODFILE CHECKSUM: 645dfc8dad540d5dc01e5022f1577f9e671d6f69
+
+COCOAPODS: 1.10.1
